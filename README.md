@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusp-santos&" alt="viniciusp-santos" /></p>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ViniciusP-Santos/ViniciusP-Santos/blob/output/github-contribution-grid-snake.svg)
