@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusp-santos&show_icons=true&locale=en" alt="viniciusp-santos" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusp-santos&" alt="viniciusp-santos" /></p>
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
