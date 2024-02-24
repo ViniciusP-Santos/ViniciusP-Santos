@@ -9,9 +9,9 @@
 ---
 
 ### 💫 Sobre Mim:
-- 🔭 Atualmente estou trabalhando na **DBC Company**
+- 🔭 Atualmente estou trabalhando na **DBC Company (Cliente Arezzo&Co)**
 - 🌱 Estou aprendendo **Spring Boot**
-- 💬 Pergunte-me sobre **ReactJs, React-Native, NodeJs**
+- 💬 Pergunte-me sobre **ReactJs, React-Native, NodeJs, PHP Laravel**
 - 📫 Como entrar em contato comigo: **viniciuspereira2244@gmail.com**
 
 ### 💻 Minha Stack de Tecnologias:
